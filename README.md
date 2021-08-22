@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# VBA of Wall Street
 
 ## Project Overview:
 
